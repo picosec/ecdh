@@ -4,7 +4,7 @@
 
 // Requires jsbn.js and jsbn2.js
 var BigInteger = require('jsbn')
-var Barrett = BigInteger.prototype.Barrett
+var Barrett = BigInteger.Barrett
 
 // ----------------
 // ECFieldElementFp
